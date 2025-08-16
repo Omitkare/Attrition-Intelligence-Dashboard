@@ -13,6 +13,11 @@ The dashboard answers key business questions such as:
 - Which age groups, education backgrounds, or job roles face the highest attrition?
 - What is the average age and tenure of employees?
 - Which salary ranges are most affected by attrition?
+- 
+---
+
+# Dashboard Overview
+![image alt](https://github.com/Omitkare/Attrition-Intelligence-Dashboard/blob/f5c65e575cfd329b90e276a898be48a767bcd32d/Dashboard%20Overview.png)
 
 ---
 
@@ -44,17 +49,6 @@ The dashboard answers key business questions such as:
 
 ---
 
-# Project Structure
-
-Attrition-Intelligence-Dashboard/
-├── Dashboard Overview.png
-├── Attrition_Dashboard.pbix
-├── HR_Data.csv
-└── README.md
-
-
----
-
 # How to Use
 
 1. Download the `.pbix` file
@@ -82,3 +76,4 @@ Or drop an email: omitkare14@gmail.com
 ---
 
 > If you found this useful, consider giving a ⭐ to the repo!
+
